@@ -1,5 +1,6 @@
 <b> elizabeth is dead </b>
 # Elizabeth
+## try this repository [elizabeth 2.0](https://github.com/Oxidisedman/Elizabeth) fixed <b> many bug's</b>
 <p align="center">
     <a href="https://github.com/MR-SHRLCK/Elizabethbot/commits/master"><img src="https://img.shields.io/github/last-commit/MR-SHRLCK/Elizabethbot/master?label=Last%20Commit&style=flat-square&logo=github&color=F10070" alt="Commit" /></a>
     <a href="https://github.com/MR-SHRLCK/Elizabethbot/stargazers"><img src="https://img.shields.io/github/stars/MR-SHRLCK/Elizabethbot?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
